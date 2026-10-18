@@ -1,7 +1,7 @@
 # Amazon Review Sentiment Analysis 
 
 ## Live Demo
-Try the sentiment analysis model here: Live Demo on PythonAnywhere (shurou.pythonanywhere.com)
+Try the sentiment analysis model here: [Live Demo on PythonAnywhere](https://shurou.pythonanywhere.com/)
 
 Enter an Amazon review to see the model predict whether the sentiment is positive or negative.
 
