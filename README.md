@@ -8,10 +8,7 @@
 
 The dataset was cleaned and preprocessed before being used to train and evaluate the classification models.
 
-## About the Project
-# Built With 
-
-# Workflow 
+## Workflow 
 1. Reading Dataset
 2. Text Preprocessing - lowercase, remove URL, HTML tags, etc...
 3. Splitting Data into Train, Validation and Test sets
