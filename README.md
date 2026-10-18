@@ -1,5 +1,10 @@
 # Amazon Review Sentiment Analysis 
 
+## Live Demo
+Try the sentiment analysis model here: Live Demo on PythonAnywhere (shurou.pythonanywhere.com)
+
+Enter an Amazon review to see the model predict whether the sentiment is positive or negative.
+
 ## Dataset
 - **Source:** [Amazon Reviews Dataset — Kaggle](https://www.kaggle.com/datasets/dongrelaxman/amazon-reviews-dataset)
 - **File:** `Amazon_Reviews.csv`
