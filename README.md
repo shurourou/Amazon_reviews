@@ -1,5 +1,5 @@
 # Amazon Review Sentiment Analysis 
-Hi everyone! 👋 This is my first machine learning project, where I explored how to use Python and natural language processing (NLP) to classify Amazon customer reviews as positive or negative.
+Hi everyone! This is my first project, where I explored how to use Python and natural language processing (NLP) to classify Amazon customer reviews as positive or negative.
 
 ## Live Demo
 Try the sentiment analysis model here: [Live Demo on PythonAnywhere](https://shurou.pythonanywhere.com/)
