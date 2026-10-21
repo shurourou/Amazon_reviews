@@ -1,5 +1,6 @@
 # Amazon Review Sentiment Analysis 
 **Objective:** To classify Amazon customer reviews as positive or negative using natural language processing (NLP) and machine learning.
+Several traditional machine learning models were compared with DistilBERT, and DistilBERT was selected as the final model based on its superior test performance.
 
 ## Live Demo
 Try the sentiment analysis model here: [Live Demo on PythonAnywhere](https://shurou.pythonanywhere.com/)
