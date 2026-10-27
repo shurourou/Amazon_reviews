@@ -8,17 +8,18 @@ Several traditional machine learning models were compared with DistilBERT, and S
 
 ## Workflow
 1. Reading Dataset
-2. Text Preprocessing
-3. Splitting Data into Train (75%), Validation (10%) and Test (15%) Sets
+2. Data Cleaning and Sentiment Categorization
+3. Text Preprocessing
+4. Splitting Data into Train (75%), Validation (10%) and Test (15%) Sets
    - Balancing Traning Data with RandomUnderSampler
-4. Text Representation (TF-IDF)
-5. Model Selection
-   - (a) Support Vector Machine (SVM)
-   - (b) Logistic Regression
-   - (c) Multinomial Naive Bayes
-   - (d) Random Forest
-   - (e) Decision Tree
-6. Model Evaluation
-7. SVM Model
-8. EXTRA Model - Deep Learning Model - DistilBERT Model
+5. Text Representation (TF-IDF)
+6. Model Selection
+   - Support Vector Machine (SVM)
+   - Logistic Regression
+   - Multinomial Naive Bayes
+   - Random Forest
+   - Decision Tree Classifier
+7. Model Evaluation
+8. SVM Model
+9. EXTRA Model - Deep Learning Model - DistilBERT Model
 
