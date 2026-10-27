@@ -6,5 +6,19 @@ Several traditional machine learning models were compared with DistilBERT, and D
 - **Source:** [Amazon Reviews Dataset — Kaggle](https://www.kaggle.com/datasets/dongrelaxman/amazon-reviews-dataset)
 - **File:** `Amazon_Reviews.csv`
 
-
+## Workflow
+1. Reading Dataset
+2. Text Preprocessing
+3. Splitting Data into Train (75%), Validation (10%) and Test (15%) Sets
+   - Balancing Traning Data with RandomUnderSampler
+4. Text Representation (TF-IDF)
+5. Model Selection
+   (a) Support Vector Machines (SVM)
+   (b) Logistic Regression
+   (c) Multinomial Naive Bayes
+   (d) Random Forest
+   (e) Decision Tree Classifier
+6. Model Evaluation
+7. SVM Model
+8. EXTRA Model - Deep Learning Model - DistilBERT Model
 
