@@ -1,6 +1,6 @@
 # Amazon Review Sentiment Analysis 
 **Objective:** To classify Amazon customer reviews as positive or negative using natural language processing (NLP) and machine learning.
-Several traditional machine learning models were compared with DistilBERT. Although the SVM and DistilBERT models achieved similar performance, the SVM model was selected as the final model.
+Several traditional machine learning models were compared with DistilBERT. 
 
 ## Live Demo
 Enter a review to predict its sentiment: https://shurou.pythonanywhere.com/ 
@@ -26,3 +26,25 @@ Enter a review to predict its sentiment: https://shurou.pythonanywhere.com/
 8. SVM Model
 9. EXTRA Model - Deep Learning Model - DistilBERT Model
 
+## Model Selection
+Although DistilBERT achieved slightly better test performance, SVM was selected as the final model due to its lower computational requirements and simpler deployment. 
+
+SVM Model: 
+             precision    recall  f1-score   support
+
+    negative       0.97      0.95      0.96      2153
+    positive       0.88      0.94      0.91       873
+
+    accuracy                           0.95      3026
+   macro avg       0.93      0.94      0.93      3026
+weighted avg       0.95      0.95      0.95      3026
+
+DistilBERT 
+       precision    recall  f1-score   support
+
+    negative       0.99      0.95      0.97      2153
+    positive       0.89      0.96      0.93       873
+
+    accuracy                           0.96      3026
+   macro avg       0.94      0.96      0.95      3026
+weighted avg       0.96      0.96      0.96      3026
