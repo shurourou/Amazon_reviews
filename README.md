@@ -30,21 +30,22 @@ Enter a review to predict its sentiment: https://shurou.pythonanywhere.com/
 Although DistilBERT achieved slightly better test performance, SVM was selected as the final model due to its lower computational requirements and simpler deployment. 
 
 SVM Model: 
-              precision    recall  f1-score   support
-
-   negative        0.97      0.95      0.96      2153
-   positive        0.88      0.94      0.91       873
+              precision    recall  f1-score   support  
+   negative      0.97      0.95      0.96      2153
+   positive      0.88      0.94      0.91       873
 
    accuracy                            0.95      3026
    macro avg       0.93      0.94      0.93      3026
 weighted avg       0.95      0.95      0.95      3026
 
 DistilBERT: 
-       precision    recall  f1-score   support
+                  precision    recall  f1-score   support
 
-   negative        0.99      0.95      0.97      2153
-   positive        0.89      0.96      0.93       873
+    negative           0.99      0.95      0.97      2153
+    positive           0.89      0.96      0.93       873
 
-   accuracy                            0.96      3026
-   macro avg       0.94      0.96      0.95      3026
-weighted avg       0.96      0.96      0.96      3026
+    accuracy                               0.96      3026
+    macro avg          0.94      0.96      0.95      3026
+    weighted avg       0.96      0.96      0.96      3026
+
+
