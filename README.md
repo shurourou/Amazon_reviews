@@ -1,6 +1,9 @@
 # Amazon Review Sentiment Analysis 
 **Objective:** To classify Amazon customer reviews as positive or negative using natural language processing (NLP) and machine learning.
-Several traditional machine learning models were compared with DistilBERT, and SVM model was selected as the final model based on its superior test performance.
+Several traditional machine learning models were compared with DistilBERT. SVM model was selected as the final model based on its superior test performance.
+
+## Live Demo
+Enter a customer review to predict its sentiment: https://shurou.pythonanywhere.com/ 
 
 ## Dataset
 - **Source:** [Amazon Reviews Dataset — Kaggle](https://www.kaggle.com/datasets/dongrelaxman/amazon-reviews-dataset)
