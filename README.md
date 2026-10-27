@@ -13,11 +13,11 @@ Several traditional machine learning models were compared with DistilBERT, and D
    - Balancing Traning Data with RandomUnderSampler
 4. Text Representation (TF-IDF)
 5. Model Selection
-   (a) Support Vector Machines (SVM)
-   (b) Logistic Regression
-   (c) Multinomial Naive Bayes
-   (d) Random Forest
-   (e) Decision Tree Classifier
+   - (a) Support Vector Machine (SVM)
+   - (b) Logistic Regression
+   - (c) Multinomial Naive Bayes
+   - (d) Random Forest
+   - (e) Decision Tree
 6. Model Evaluation
 7. SVM Model
 8. EXTRA Model - Deep Learning Model - DistilBERT Model
